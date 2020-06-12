@@ -5,7 +5,7 @@ import * as React from 'react';
 import { BudgetItemInterface } from './../interfaces';
 
 // Import components
-import IconBin from './icon-bin';
+import IconBin from './iconBin';
 
 const BudgetItem = (props: BudgetItemInterface): JSX.Element => {
   return (
